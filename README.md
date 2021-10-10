@@ -1,12 +1,12 @@
-## Welcome to My page!
+# Welcome to My page!
 As the name indicates, I created this repository to make a github page.
-# Programming Languages:-
+## Programming Languages:-
 I created this Github Page using HTML and CSS.
-# HTML:- <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/index.html">Index.html</a>
+## HTML:- <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/index.html">Index.html</a>
 
-# CSS:- <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/style.css">Style.css</a>
+## CSS:- <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/style.css">Style.css</a>
 
-#IMG SRC:-
+## IMG SRC:-
 <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/Profile%20Photo.PNG">
     1. Profile Photo.png</a>
     <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/Github.PNG">
