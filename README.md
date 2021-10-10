@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to My page!
+As the name indicates, I created this repository to make a github page.
+# Programming Languages:-
+I created this Github Page using HTML and CSS.
+# HTML:-
+<a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/index.html">Index.html</a>
 
-You can use the [editor on GitHub](https://github.com/Srinivaasan27/Srinivaasan27.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# CSS:-
+<a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/style.css">Style.css</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Srinivaasan27/Srinivaasan27.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#IMG SRC:-
+<a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/Profile%20Photo.PNG">
+    1. Profile Photo.png</a>
+    <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/Github.PNG">
+    2. Github.png</a>
+    <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/Scratch.PNG">
+    3. Scratch.png</a>
+    <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/Chess.PNG">
+    4. Chess.png</a>
+    <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/HTML%26CSS.PNG">
+    5. HTML & CSS.png</a>
