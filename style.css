@@ -1,0 +1,33 @@
+body {
+    font-family: 'Baumans', cursive;
+}
+h1 {
+    background-color: rgb(3, 40, 250);
+    color: azure;
+    font-size: 70px;
+    
+}
+h2 {
+    background-color: azure;
+    color: chartreuse;
+    font-size: 50px;
+}
+h3 {
+    color: cornsilk;
+    font-size: 40px;
+    
+}
+h4 {
+    color: rgb(216, 0, 43);
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p {
+    color: rgb(44, 250, 3);
+    font-size: 30px;
+}
+h5 {
+    color: rgb(3, 40, 250);
+    background-color: azure;
+    font-size: 70px;
+}   
