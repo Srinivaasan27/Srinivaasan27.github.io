@@ -1,6 +1,6 @@
 # Welcome to My Repository
 ### As the name indicates, I created this repository to make a github page. Link- <a href="https://srinivaasan27.github.io/" >Srinivaasan27</a>
-## Programming Languages:-
+## Programming Languages
 ### I created this Github Page using HTML and CSS.
 ## HTML:- <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/index.html">Index.html</a>
 
