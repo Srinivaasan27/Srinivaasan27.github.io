@@ -1,5 +1,6 @@
 body {
     font-family: 'Baumans', cursive;
+    background-color: black;
 }
 h1 {
     background-color: rgb(3, 40, 250);
@@ -31,3 +32,111 @@ h5 {
     background-color: azure;
     font-size: 70px;
 }   
+h6 {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+}
+body 
+{
+    margin: 0;
+    padding: 0;
+}
+.box:nth-child(1)
+{
+    text-align: center;
+    top: -20px;
+    left: 80px;
+    position: relative;
+    width: 1200px;
+    height: 300px;
+    margin: 240px auto;
+}
+
+.container .box
+{
+    background: rgb(141, 141, 141);
+    position: relative;
+    width: calc(1200px - 30px);
+    height: calc(300px - 30px);
+    float: left;
+    margin: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.container .box .icon
+{
+    background: rgb(105, 105, 105);
+    position: absolute;
+    top: 0;
+    Left: 0;
+    width: 100%;
+    height: 100%;
+    transition: 0.5s;
+    z-index: 1;
+}
+.container .box:hover .icon
+{
+    top: 20px;
+    Left: calc(50% - 40px);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.container .box .icon .bi
+{
+    position: absolute;
+    top: 50%;
+    Left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 100px;
+    transition: 0.5s;
+    color: #fff;
+}
+
+.container .box:hover .icon .bi
+{
+    font-size: 50px;
+}
+.container .box .content
+{
+    position: relative;
+    top: 100%;
+    height: calc(100% - 100px);
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    transition: 0.5s;
+    opacity: 0;
+}
+.container .box:hover .content
+{
+    top: 100px;
+    opacity: 1;
+}
+.container .box .content h3
+{
+    margin: 0 0 10px;
+    padding: 0;
+    color: #fff;
+    font-size: 30px;
+}
+
+.container .box .content p
+{
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-size: 24px;
+}
+
+.container .box:nth-child(1) .icon
+{
+    background: rgb(105, 105, 105);
+}
+
+.container .box:nth-child(1) 
+{
+    background: rgb(141, 141, 141);
+}
