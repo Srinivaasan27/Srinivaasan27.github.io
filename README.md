@@ -8,7 +8,7 @@
 
 ## IMG SRC:- <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/Profile%20Photo.PNG">1. Profile Photo.png </a><a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/Github.PNG">2. Github.png </a><a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/Scratch.PNG">3. Scratch.png </a><a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/Chess.PNG">4. Chess.png </a><a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/HTML%26CSS.PNG">5. HTML & CSS.png </a>
 ## Special thanks to <a href="https://github.com/e-coders">E - Coders</a> for helping me fix the image bug.
-Special thanks to <a href="https://github.com/Genius398">Genius398</a> for creating 
+## Special thanks to <a href="https://github.com/Genius398">Genius398</a> for creating 
 <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/LICENSE.md">LICENSE.md</a>
 ## Note: 
 ### This site is under construction.
