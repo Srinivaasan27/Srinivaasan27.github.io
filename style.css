@@ -6,6 +6,8 @@ h1 {
     background-color: rgb(3, 40, 250);
     color: azure;
     font-size: 70px;
+    font-weight: lighter;
+    text-align: center;
     
 }
 h2 {
@@ -33,11 +35,17 @@ h5 {
     font-size: 70px;
 }   
 h6 {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 30px;
     text-align: center;
     line-height: 50px;
+    background-color: rgb(163, 253, 247);
+    padding: 20px;
+    border-color: rgb(255, 255, 255);
+    border-width: 20px;
+    border-style: solid;
 }
+
 body 
 {
     margin: 0;
