@@ -36,6 +36,7 @@ h6 {
     color: rgb(255, 255, 255);
     font-size: 30px;
     text-align: center;
+    line-height: 50px;
 }
 body 
 {
@@ -92,7 +93,7 @@ body
     transform: translate(-50%,-50%);
     font-size: 100px;
     transition: 0.5s;
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 
 .container .box:hover .icon .bi
@@ -133,10 +134,12 @@ body
 
 .container .box:nth-child(1) .icon
 {
-    background: rgb(105, 105, 105);
+    background: rgb(255, 255, 255);
+    border-color: #fff;
+    box-sizing: content-box;
 }
 
 .container .box:nth-child(1) 
 {
-    background: rgb(141, 141, 141);
+    background: rgb(0, 0, 0);
 }
