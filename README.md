@@ -1,6 +1,6 @@
 # Welcome to My Official Site Repository!
 ### As the name indicates, I created this repository to make a github page. Link- <a href="https://srinivaasan27.github.io/" >Srinivaasan27</a>
-**Created by me Self, using HTML & CSS, Check it out at <a href="https://srinivaasan27.github.io/">https://srinivaasan27.github.io/</a>**
+**Created by my Self, using HTML & CSS, Check it out at <a href="https://srinivaasan27.github.io/">https://srinivaasan27.github.io/</a>**
 ## Programming Languages
 ### I created this Github Page using HTML and CSS.
 ## HTML:- <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/index.html">Index.html</a>
