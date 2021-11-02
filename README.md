@@ -1,5 +1,5 @@
 # Welcome to My Official Site Repository!
-As the name indicates, I created this repository to make a my site. Link- <a href="https://srinivaasan27.github.io/" >srinivaasan27.github.io/</a>
+As the name indicates, I created this repository to make a my site. Link- <a href="https://srinivaasan27.github.io/" >Srinivaasan27.github.io/</a>
 <hr />
 
 ## Programming Languages
