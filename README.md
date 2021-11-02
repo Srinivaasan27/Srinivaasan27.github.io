@@ -1,14 +1,16 @@
 # Welcome to My Official Site Repository!
-### As the name indicates, I created this repository to make a github page. Link- <a href="https://srinivaasan27.github.io/" >Srinivaasan27</a>
+As the name indicates, I created this repository to make a my site. Link- <a href="https://srinivaasan27.github.io/" >srinivaasan27.github.io/</a>
+<hr />
+
 ## Programming Languages
-### I created this Github Page using HTML and CSS.
-## HTML:- <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/index.html">Index.html</a>
+I created this website using HTML and CSS.
 
-## CSS:- <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/style.css">Style.css</a>
+## Contributors
+> **Most of Thanks Goes to <a href="https://github.com/Srinivaasan27">Srinivaasan27</a> for starting the project, owning edit, and most of code from he.**<br>
+> Special Thanks Goes to Google Fonts for Fonts.<br>
+> Special Thanks Goes to Bootstrap for extra styling.<br>
+> Special thanks to <a href="https://github.com/e-coders">E - Coders</a> for helping me fix the image bug and for some codes.<br>
+> Special thanks to <a href="https://github.com/Genius398">Genius398</a> for creating <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/LICENSE.md">LICENSE</a>.<br>
 
-## IMG SRC:- <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/Profile%20Photo.PNG">1. Profile Photo.png </a><a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/Github.PNG">2. Github.png </a><a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/Scratch.PNG">3. Scratch.png </a><a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/Chess.PNG">4. Chess.png </a><a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/HTML%26CSS.PNG">5. HTML & CSS.png </a>
-## Special thanks to Google Fonts and BootStrap icons.
-## Special thanks to <a href="https://github.com/e-coders">E - Coders</a> for helping me fix the image bug and for some codes.
-## Special thanks to <a href="https://github.com/Genius398">Genius398</a> for creating <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/LICENSE.md">LICENSE.md.</a>
-## Note: 
-### This site is under construction.
+## Note:
+> Note: This site is under 🚧 construction 🚧.
