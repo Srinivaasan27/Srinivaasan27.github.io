@@ -14,3 +14,7 @@ I created this website using HTML and CSS.
 
 ## Note:
 > Note: This site is under 🚧 construction 🚧.
+
+## License
+> This site is licensed under the <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/LICENSE" target="_blank">MIT License</a>.<br>
+> Copying this project without permissions is about doing to a case.
