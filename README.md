@@ -18,3 +18,5 @@ I created this website using HTML and CSS.
 ## License
 > This site is licensed under the <a href="https://github.com/Srinivaasan27/Srinivaasan27.github.io/blob/main/LICENSE" target="_blank">MIT License</a>.<br>
 > Copying this project without permissions is about doing to a case.
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
