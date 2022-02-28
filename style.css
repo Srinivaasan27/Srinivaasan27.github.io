@@ -9,7 +9,7 @@
     scroll-behavior: smooth;
   }
   body{
-    font-family: montserrat;
+      font-family: 'Fredoka', sans-serif;
   }
   ul{
     position: fixed;
