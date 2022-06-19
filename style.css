@@ -69,14 +69,14 @@
       position: relative;
       top: 180px;
       font-size: 160px;
-      color: green;
+      color: white;
   }
   #homen {
     align-items: justify;
     position: relative;
     top: 200px;
     font-size: 74px;
-    color: orange;
+    color: rgb(38, 255, 0);
   }
   .sec2{
     margin-left: -20px;
